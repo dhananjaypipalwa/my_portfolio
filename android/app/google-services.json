@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171816661336",
+    "project_id": "om-portfolio-github-website",
+    "storage_bucket": "om-portfolio-github-website.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171816661336:android:5a2dc5a79b799f075ef52d",
+        "android_client_info": {
+          "package_name": "com.adbytee.developer_portfolio_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171816661336-mi0i85ut0f003c3uf1a4fpoc0p662u19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk8ubIyK5z2xROumwzXt-xfU4OaZQWYc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171816661336-mi0i85ut0f003c3uf1a4fpoc0p662u19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
